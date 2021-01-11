@@ -1,0 +1,960 @@
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:1:	CommentSize: Comment is too large: Too many lines
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:1:	CommentSize: Comment is too large: Too many lines
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:31:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:31:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:39:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:39:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:43:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:43:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:47:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:47:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:51:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:51:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:55:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the v field if you want a default access modifier
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:55:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the v field if you want a default access modifier
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:55:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:55:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:55:	ShortVariable: Avoid variables with short names like v
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:55:	ShortVariable: Avoid variables with short names like v
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:60:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:60:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:60:	ShortVariable: Avoid variables with short names like l
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:60:	ShortVariable: Avoid variables with short names like l
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:65:	AvoidFieldNameMatchingMethodName: Field size has the same name as a method
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:65:	AvoidFieldNameMatchingMethodName: Field size has the same name as a method
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:65:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:65:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:73:	MethodArgumentCouldBeFinal: Parameter 'text' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:73:	MethodArgumentCouldBeFinal: Parameter 'text' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:74:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'position' (lines '74'-'83').
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:74:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'position' (lines '74'-'83').
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:75:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'currentState' (lines '75'-'83').
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:75:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'currentState' (lines '75'-'83').
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:76:	LocalVariableCouldBeFinal: Local variable 'collectedEmits' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:76:	LocalVariableCouldBeFinal: Local variable 'collectedEmits' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:91:	MethodArgumentCouldBeFinal: Parameter 'processor' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:91:	MethodArgumentCouldBeFinal: Parameter 'processor' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:91:	MethodArgumentCouldBeFinal: Parameter 'text' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:91:	MethodArgumentCouldBeFinal: Parameter 'text' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:92:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'position' (lines '92'-'104').
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:92:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'position' (lines '92'-'104').
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:93:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'currentState' (lines '93'-'104').
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:93:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'currentState' (lines '93'-'104').
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:96:	LocalVariableCouldBeFinal: Local variable 'hitArray' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:96:	LocalVariableCouldBeFinal: Local variable 'hitArray' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:98:	LocalVariableCouldBeFinal: Local variable 'hit' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:98:	LocalVariableCouldBeFinal: Local variable 'hit' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:112:	MethodArgumentCouldBeFinal: Parameter 'processor' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:112:	MethodArgumentCouldBeFinal: Parameter 'processor' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:112:	MethodArgumentCouldBeFinal: Parameter 'text' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:112:	MethodArgumentCouldBeFinal: Parameter 'text' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:113:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'currentState' (lines '113'-'127').
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:113:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'currentState' (lines '113'-'127').
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:115:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'position' (lines '115'-'115').
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:115:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'position' (lines '115'-'115').
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:115:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'position' (lines '115'-'127').
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:115:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'position' (lines '115'-'127').
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:117:	LocalVariableCouldBeFinal: Local variable 'hitArray' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:117:	LocalVariableCouldBeFinal: Local variable 'hitArray' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:119:	LocalVariableCouldBeFinal: Local variable 'hit' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:119:	LocalVariableCouldBeFinal: Local variable 'hit' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:120:	LocalVariableCouldBeFinal: Local variable 'proceed' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:120:	LocalVariableCouldBeFinal: Local variable 'proceed' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:137:	MethodArgumentCouldBeFinal: Parameter 'text' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:137:	MethodArgumentCouldBeFinal: Parameter 'text' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:138:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'currentState' (lines '138'-'147').
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:138:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'currentState' (lines '138'-'147').
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:141:	LocalVariableCouldBeFinal: Local variable 'hitArray' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:141:	LocalVariableCouldBeFinal: Local variable 'hitArray' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:143:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:143:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:155:	MethodArgumentCouldBeFinal: Parameter 'text' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:155:	MethodArgumentCouldBeFinal: Parameter 'text' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:156:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'position' (lines '156'-'168').
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:156:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'position' (lines '156'-'168').
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:157:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'currentState' (lines '157'-'168').
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:157:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'currentState' (lines '157'-'168').
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:160:	LocalVariableCouldBeFinal: Local variable 'hitArray' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:160:	LocalVariableCouldBeFinal: Local variable 'hitArray' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:162:	LocalVariableCouldBeFinal: Local variable 'hitIndex' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:162:	LocalVariableCouldBeFinal: Local variable 'hitIndex' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:163:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:163:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:175:	ShortClassName: Avoid short class names like IHit
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:175:	ShortClassName: Avoid short class names like IHit
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:177:	CommentSize: Comment is too large: Line too long
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:177:	CommentSize: Comment is too large: Line too long
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:191:	CommentSize: Comment is too large: Line too long
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:191:	CommentSize: Comment is too large: Line too long
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:196:	CommentSize: Comment is too large: Line too long
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:196:	CommentSize: Comment is too large: Line too long
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:206:	CommentSize: Comment is too large: Line too long
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:206:	CommentSize: Comment is too large: Line too long
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:221:	ShortClassName: Avoid short class names like Hit
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:221:	ShortClassName: Avoid short class names like Hit
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:225:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:225:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:229:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:229:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:233:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:233:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:235:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:235:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:235:	MethodArgumentCouldBeFinal: Parameter 'begin' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:235:	MethodArgumentCouldBeFinal: Parameter 'begin' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:235:	MethodArgumentCouldBeFinal: Parameter 'end' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:235:	MethodArgumentCouldBeFinal: Parameter 'end' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:235:	MethodArgumentCouldBeFinal: Parameter 'value' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:235:	MethodArgumentCouldBeFinal: Parameter 'value' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:254:	AvoidReassigningParameters: Avoid reassigning parameters such as 'currentState'
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:254:	AvoidReassigningParameters: Avoid reassigning parameters such as 'currentState'
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:254:	MethodArgumentCouldBeFinal: Parameter 'character' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:254:	MethodArgumentCouldBeFinal: Parameter 'character' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:270:	MethodArgumentCouldBeFinal: Parameter 'collectedEmits' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:270:	MethodArgumentCouldBeFinal: Parameter 'collectedEmits' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:270:	MethodArgumentCouldBeFinal: Parameter 'currentState' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:270:	MethodArgumentCouldBeFinal: Parameter 'currentState' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:270:	MethodArgumentCouldBeFinal: Parameter 'position' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:270:	MethodArgumentCouldBeFinal: Parameter 'position' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:271:	LocalVariableCouldBeFinal: Local variable 'hitArray' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:271:	LocalVariableCouldBeFinal: Local variable 'hitArray' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:273:	LocalVariableCouldBeFinal: Local variable 'hit' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:273:	LocalVariableCouldBeFinal: Local variable 'hit' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:274:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:274:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:281:	CommentSize: Comment is too large: Line too long
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:281:	CommentSize: Comment is too large: Line too long
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:287:	MethodArgumentCouldBeFinal: Parameter 'c' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:287:	MethodArgumentCouldBeFinal: Parameter 'c' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:287:	MethodArgumentCouldBeFinal: Parameter 'nodePos' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:287:	MethodArgumentCouldBeFinal: Parameter 'nodePos' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:287:	ShortVariable: Avoid variables with short names like c
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:287:	ShortVariable: Avoid variables with short names like c
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:288:	LocalVariableCouldBeFinal: Local variable 'b' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:288:	LocalVariableCouldBeFinal: Local variable 'b' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:288:	ShortVariable: Avoid variables with short names like b
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:288:	ShortVariable: Avoid variables with short names like b
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:289:	ShortVariable: Avoid variables with short names like p
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:289:	ShortVariable: Avoid variables with short names like p
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:293:	ControlStatementBraces: This statement should have braces
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:293:	ControlStatementBraces: This statement should have braces
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:293:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:293:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:293:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:293:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:294:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:294:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:304:	MethodArgumentCouldBeFinal: Parameter 'map' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:304:	MethodArgumentCouldBeFinal: Parameter 'map' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:318:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:318:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:318:	ModifiedCyclomaticComplexity: The class 'Builder' has a Modified Cyclomatic Complexity of 3 (Highest = 11).
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:318:	ModifiedCyclomaticComplexity: The class 'Builder' has a Modified Cyclomatic Complexity of 3 (Highest = 11).
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:318:	StdCyclomaticComplexity: The class 'Builder' has a Standard Cyclomatic Complexity of 3 (Highest = 11).
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:318:	StdCyclomaticComplexity: The class 'Builder' has a Standard Cyclomatic Complexity of 3 (Highest = 11).
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:318:	TooManyMethods: This class has too many methods, consider refactoring it.
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:318:	TooManyMethods: This class has too many methods, consider refactoring it.
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:322:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:322:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:326:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:326:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:330:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:330:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:334:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:334:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:338:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:338:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:342:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:342:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:350:	MethodArgumentCouldBeFinal: Parameter 'map' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:350:	MethodArgumentCouldBeFinal: Parameter 'map' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:351:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:351:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:353:	LocalVariableCouldBeFinal: Local variable 'keySet' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:353:	LocalVariableCouldBeFinal: Local variable 'keySet' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:355:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:355:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:356:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:356:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:358:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:358:	NullAssignment: Assigning an Object to null is a code smell.  Consider refactoring.
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:369:	MethodArgumentCouldBeFinal: Parameter 'parent' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:369:	MethodArgumentCouldBeFinal: Parameter 'parent' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:369:	MethodArgumentCouldBeFinal: Parameter 'siblings' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:369:	MethodArgumentCouldBeFinal: Parameter 'siblings' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:371:	LocalVariableCouldBeFinal: Local variable 'fakeNode' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:371:	LocalVariableCouldBeFinal: Local variable 'fakeNode' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:375:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:375:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:375:	LocalVariableCouldBeFinal: Local variable 'entry' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:375:	LocalVariableCouldBeFinal: Local variable 'entry' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:376:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:376:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:387:	MethodArgumentCouldBeFinal: Parameter 'index' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:387:	MethodArgumentCouldBeFinal: Parameter 'index' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:387:	MethodArgumentCouldBeFinal: Parameter 'keyword' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:387:	MethodArgumentCouldBeFinal: Parameter 'keyword' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:389:	LocalVariableCouldBeFinal: Local variable 'character' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:389:	LocalVariableCouldBeFinal: Local variable 'character' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:392:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:392:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:401:	MethodArgumentCouldBeFinal: Parameter 'keywordSet' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:401:	MethodArgumentCouldBeFinal: Parameter 'keywordSet' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:402:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'i' (lines '402'-'406').
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:402:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'i' (lines '402'-'406').
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:402:	ShortVariable: Avoid variables with short names like i
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:402:	ShortVariable: Avoid variables with short names like i
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:403:	LocalVariableCouldBeFinal: Local variable 'keyword' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:403:	LocalVariableCouldBeFinal: Local variable 'keyword' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:414:	LocalVariableCouldBeFinal: Local variable 'queue' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:414:	LocalVariableCouldBeFinal: Local variable 'queue' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:415:	LocalVariableCouldBeFinal: Local variable 'depthOneState' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:415:	LocalVariableCouldBeFinal: Local variable 'depthOneState' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:421:	LocalVariableCouldBeFinal: Local variable 'currentState' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:421:	LocalVariableCouldBeFinal: Local variable 'currentState' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:422:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:422:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:422:	LocalVariableCouldBeFinal: Local variable 'transition' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:422:	LocalVariableCouldBeFinal: Local variable 'transition' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:423:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:423:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:423:	LocalVariableCouldBeFinal: Local variable 'targetState' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:423:	LocalVariableCouldBeFinal: Local variable 'targetState' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:425:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:425:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:426:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:426:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:427:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:427:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:429:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:429:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:429:	LocalVariableCouldBeFinal: Local variable 'newFailureState' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:429:	LocalVariableCouldBeFinal: Local variable 'newFailureState' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:430:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:430:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:431:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:431:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:431:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:431:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:440:	MethodArgumentCouldBeFinal: Parameter 'targetState' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:440:	MethodArgumentCouldBeFinal: Parameter 'targetState' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:441:	LocalVariableCouldBeFinal: Local variable 'emit' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:441:	LocalVariableCouldBeFinal: Local variable 'emit' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:442:	ControlStatementBraces: This statement should have braces
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:442:	ControlStatementBraces: This statement should have braces
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:442:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:442:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:442:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:442:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:443:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:443:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:444:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'it' (lines '444'-'449').
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:444:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'it' (lines '444'-'449').
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:444:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:444:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:444:	LocalVariableCouldBeFinal: Local variable 'it' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:444:	LocalVariableCouldBeFinal: Local variable 'it' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:444:	ShortVariable: Avoid variables with short names like it
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:444:	ShortVariable: Avoid variables with short names like it
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:448:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:448:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:448:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:448:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:451:	MethodArgumentCouldBeFinal: Parameter 'keySize' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:451:	MethodArgumentCouldBeFinal: Parameter 'keySize' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:454:	UseUnderscoresInNumericLiterals: Number 65536 should separate every third digit with an underscore
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:454:	UseUnderscoresInNumericLiterals: Number 65536 should separate every third digit with an underscore
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:459:	LocalVariableCouldBeFinal: Local variable 'rootNode' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:459:	LocalVariableCouldBeFinal: Local variable 'rootNode' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:461:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:461:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:461:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:461:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:461:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:461:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:461:	LocalVariableCouldBeFinal: Local variable 'siblings' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:461:	LocalVariableCouldBeFinal: Local variable 'siblings' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:463:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:463:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:464:	ControlStatementBraces: This statement should have braces
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:464:	ControlStatementBraces: This statement should have braces
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:473:	MethodArgumentCouldBeFinal: Parameter 'newSize' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:473:	MethodArgumentCouldBeFinal: Parameter 'newSize' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:474:	LocalVariableCouldBeFinal: Local variable 'base2' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:474:	LocalVariableCouldBeFinal: Local variable 'base2' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:475:	LocalVariableCouldBeFinal: Local variable 'check2' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:475:	LocalVariableCouldBeFinal: Local variable 'check2' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:476:	LocalVariableCouldBeFinal: Local variable 'used2' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:476:	LocalVariableCouldBeFinal: Local variable 'used2' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:496:	MethodArgumentCouldBeFinal: Parameter 'firstSiblings' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:496:	MethodArgumentCouldBeFinal: Parameter 'firstSiblings' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:497:	LocalVariableCouldBeFinal: Local variable 'siblingQueue' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:497:	LocalVariableCouldBeFinal: Local variable 'siblingQueue' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:508:	CommentSize: Comment is too large: Line too long
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:508:	CommentSize: Comment is too large: Line too long
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:510:	MethodArgumentCouldBeFinal: Parameter 'siblingQueue' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:510:	MethodArgumentCouldBeFinal: Parameter 'siblingQueue' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:511:	LocalVariableCouldBeFinal: Local variable 'tCurrent' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:511:	LocalVariableCouldBeFinal: Local variable 'tCurrent' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:512:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:512:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:512:	LocalVariableCouldBeFinal: Local variable 'siblings' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:512:	LocalVariableCouldBeFinal: Local variable 'siblings' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:515:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:515:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:515:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:515:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:515:	LocalVariableCouldBeFinal: Local variable 'pos' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:515:	LocalVariableCouldBeFinal: Local variable 'pos' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:516:	LocalVariableCouldBeFinal: Local variable 'nonZeroNum' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:516:	LocalVariableCouldBeFinal: Local variable 'nonZeroNum' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:517:	LocalVariableCouldBeFinal: Local variable 'first' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:517:	LocalVariableCouldBeFinal: Local variable 'first' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:519:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:519:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:520:	ControlStatementBraces: This statement should have braces
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:520:	ControlStatementBraces: This statement should have braces
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:526:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:526:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:526:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:526:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:526:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:526:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:526:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:526:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:526:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:526:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:526:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:526:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:526:	UselessParentheses: Useless parentheses.
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:526:	UselessParentheses: Useless parentheses.
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:528:	LocalVariableCouldBeFinal: Local variable 'sibling' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:528:	LocalVariableCouldBeFinal: Local variable 'sibling' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:532:	LocalVariableCouldBeFinal: Local variable 'sibling' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:532:	LocalVariableCouldBeFinal: Local variable 'sibling' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:533:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:533:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:533:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:533:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:533:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:533:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:533:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:533:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:533:	LocalVariableCouldBeFinal: Local variable 'newSiblings' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:533:	LocalVariableCouldBeFinal: Local variable 'newSiblings' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:536:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:536:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:536:	UselessParentheses: Useless parentheses.
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:536:	UselessParentheses: Useless parentheses.
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:539:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:539:	AvoidInstantiatingObjectsInLoops: Avoid instantiating new objects inside loops
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:541:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:541:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:545:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:545:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:545:	LocalVariableCouldBeFinal: Local variable 'parentBaseIndex' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:545:	LocalVariableCouldBeFinal: Local variable 'parentBaseIndex' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:551:	AvoidReassigningParameters: Avoid reassigning parameters such as 'begin'
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:551:	AvoidReassigningParameters: Avoid reassigning parameters such as 'begin'
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:551:	AvoidReassigningParameters: Avoid reassigning parameters such as 'first'
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:551:	AvoidReassigningParameters: Avoid reassigning parameters such as 'first'
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:551:	AvoidReassigningParameters: Avoid reassigning parameters such as 'nonZeroNum'
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:551:	AvoidReassigningParameters: Avoid reassigning parameters such as 'nonZeroNum'
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:551:	AvoidReassigningParameters: Avoid reassigning parameters such as 'pos'
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:551:	AvoidReassigningParameters: Avoid reassigning parameters such as 'pos'
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:551:	AvoidReassigningParameters: Avoid reassigning parameters such as 'pos'
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:551:	AvoidReassigningParameters: Avoid reassigning parameters such as 'pos'
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:551:	CyclomaticComplexity: The method 'newinsert(int, int, int, int, List)' has a cyclomatic complexity of 11.
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:551:	CyclomaticComplexity: The method 'newinsert(int, int, int, int, List)' has a cyclomatic complexity of 11.
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:551:	MethodArgumentCouldBeFinal: Parameter 'siblings' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:551:	MethodArgumentCouldBeFinal: Parameter 'siblings' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:551:	ModifiedCyclomaticComplexity: The method 'newinsert' has a Modified Cyclomatic Complexity of 11.
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:551:	ModifiedCyclomaticComplexity: The method 'newinsert' has a Modified Cyclomatic Complexity of 11.
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:551:	NPathComplexity: The method 'newinsert(int, int, int, int, List)' has an NPath complexity of 218, current threshold is 200
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:551:	NPathComplexity: The method 'newinsert(int, int, int, int, List)' has an NPath complexity of 218, current threshold is 200
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:551:	StdCyclomaticComplexity: The method 'newinsert' has a Standard Cyclomatic Complexity of 11.
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:551:	StdCyclomaticComplexity: The method 'newinsert' has a Standard Cyclomatic Complexity of 11.
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:552:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'goagain' (lines '552'-'583').
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:552:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'goagain' (lines '552'-'583').
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:552:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'goagain' (lines '552'-'601').
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:552:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'goagain' (lines '552'-'601').
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:559:	ConfusingTernary: Avoid if (x != y) ..; else ..;
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:559:	ConfusingTernary: Avoid if (x != y) ..; else ..;
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:570:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:570:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:571:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:571:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:574:	LocalVariableCouldBeFinal: Local variable 'l1' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:574:	LocalVariableCouldBeFinal: Local variable 'l1' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:574:	ShortVariable: Avoid variables with short names like l1
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:574:	ShortVariable: Avoid variables with short names like l1
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:574:	UselessParentheses: Useless parentheses.
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:574:	UselessParentheses: Useless parentheses.
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:578:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:578:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:579:	ControlStatementBraces: This statement should have braces
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:579:	ControlStatementBraces: This statement should have braces
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:581:	ControlStatementBraces: This statement should have braces
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:581:	ControlStatementBraces: This statement should have braces
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:581:	ForLoopsMustUseBraces: Avoid using for statements without curly braces
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:581:	ForLoopsMustUseBraces: Avoid using for statements without curly braces
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:582:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:582:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:586:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:586:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:589:	AvoidBranchingStatementAsLastInLoop: Avoid using a branching statement as the last in a loop.
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:589:	AvoidBranchingStatementAsLastInLoop: Avoid using a branching statement as the last in a loop.
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:598:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:598:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:598:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:598:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:599:	ControlStatementBraces: This statement should have braces
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:599:	ControlStatementBraces: This statement should have braces
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:606:	MethodArgumentCouldBeFinal: Parameter 'allocSize' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:606:	MethodArgumentCouldBeFinal: Parameter 'allocSize' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:606:	MethodArgumentCouldBeFinal: Parameter 'pos' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:606:	MethodArgumentCouldBeFinal: Parameter 'pos' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:607:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:607:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:608:	ControlStatementBraces: This statement should have braces
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:608:	ControlStatementBraces: This statement should have braces
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:616:	LocalVariableCouldBeFinal: Local variable 'nbase' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:616:	LocalVariableCouldBeFinal: Local variable 'nbase' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:616:	UseUnderscoresInNumericLiterals: Number 65535 should separate every third digit with an underscore
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:616:	UseUnderscoresInNumericLiterals: Number 65535 should separate every third digit with an underscore
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:620:	LocalVariableCouldBeFinal: Local variable 'ncheck' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:620:	LocalVariableCouldBeFinal: Local variable 'ncheck' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:620:	UseUnderscoresInNumericLiterals: Number 65535 should separate every third digit with an underscore
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrie.java:620:	UseUnderscoresInNumericLiterals: Number 65535 should separate every third digit with an underscore
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrieMain.java:7:	CommentRequired: Class comments are required
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrieMain.java:7:	CommentRequired: Class comments are required
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrieMain.java:7:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrieMain.java:7:	UseUtilityClass: All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrieMain.java:8:	CommentRequired: Field comments are required
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrieMain.java:8:	CommentRequired: Field comments are required
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrieMain.java:8:	FieldNamingConventions: The constant name 'logger' doesn't match '[A-Z][A-Z_0-9]*'
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrieMain.java:8:	FieldNamingConventions: The constant name 'logger' doesn't match '[A-Z][A-Z_0-9]*'
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrieMain.java:8:	VariableNamingConventions: Variables that are final and static should be all capitals, 'logger' is not all capitals.
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrieMain.java:8:	VariableNamingConventions: Variables that are final and static should be all capitals, 'logger' is not all capitals.
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrieMain.java:9:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrieMain.java:9:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrieMain.java:9:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrieMain.java:9:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrieMain.java:12:	LocalVariableCouldBeFinal: Local variable 'map' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrieMain.java:12:	LocalVariableCouldBeFinal: Local variable 'map' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrieMain.java:13:	LocalVariableCouldBeFinal: Local variable 'keyArray' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrieMain.java:13:	LocalVariableCouldBeFinal: Local variable 'keyArray' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrieMain.java:13:	UseShortArrayInitializer: Array initialization can be written shorter
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrieMain.java:13:	UseShortArrayInitializer: Array initialization can be written shorter
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrieMain.java:20:	LocalVariableCouldBeFinal: Local variable 'key' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrieMain.java:20:	LocalVariableCouldBeFinal: Local variable 'key' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrieMain.java:24:	LocalVariableCouldBeFinal: Local variable 'acdat' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrieMain.java:24:	LocalVariableCouldBeFinal: Local variable 'acdat' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrieMain.java:27:	AvoidFinalLocalVariable: Avoid using final local variables, turn them into fields
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrieMain.java:27:	AvoidFinalLocalVariable: Avoid using final local variables, turn them into fields
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrieMain.java:28:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrieMain.java:28:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrieMain.java:29:	LocalVariableCouldBeFinal: Local variable 'printEmptyMessage' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrieMain.java:29:	LocalVariableCouldBeFinal: Local variable 'printEmptyMessage' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrieMain.java:30:	LocalVariableCouldBeFinal: Local variable 'logMessage' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrieMain.java:30:	LocalVariableCouldBeFinal: Local variable 'logMessage' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrieMain.java:38:	MethodArgumentCouldBeFinal: Parameter 'begin' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrieMain.java:38:	MethodArgumentCouldBeFinal: Parameter 'begin' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrieMain.java:38:	MethodArgumentCouldBeFinal: Parameter 'end' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrieMain.java:38:	MethodArgumentCouldBeFinal: Parameter 'end' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrieMain.java:38:	MethodArgumentCouldBeFinal: Parameter 'value' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrieMain.java:38:	MethodArgumentCouldBeFinal: Parameter 'value' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrieMain.java:39:	LocalVariableCouldBeFinal: Local variable 'endingValue' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrieMain.java:39:	LocalVariableCouldBeFinal: Local variable 'endingValue' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrieMain.java:40:	LocalVariableCouldBeFinal: Local variable 'printOutput' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrieMain.java:40:	LocalVariableCouldBeFinal: Local variable 'printOutput' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrieMain.java:41:	LocalVariableCouldBeFinal: Local variable 'logMessage' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrieMain.java:41:	LocalVariableCouldBeFinal: Local variable 'logMessage' could be declared final
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrieMain.java:42:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/main/java/com/hankcs/algorithm/AhoCorasickDoubleArrayTrieMain.java:42:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/main/java/com/hankcs/algorithm/State.java:1:	CommentSize: Comment is too large: Too many lines
+src/main/java/com/hankcs/algorithm/State.java:1:	CommentSize: Comment is too large: Too many lines
+src/main/java/com/hankcs/algorithm/State.java:25:	CommentSize: Comment is too large: Too many lines
+src/main/java/com/hankcs/algorithm/State.java:25:	CommentSize: Comment is too large: Too many lines
+src/main/java/com/hankcs/algorithm/State.java:37:	CommentSize: Comment is too large: Line too long
+src/main/java/com/hankcs/algorithm/State.java:37:	CommentSize: Comment is too large: Line too long
+src/main/java/com/hankcs/algorithm/State.java:45:	CommentRequired: Field comments are required
+src/main/java/com/hankcs/algorithm/State.java:45:	CommentRequired: Field comments are required
+src/main/java/com/hankcs/algorithm/State.java:47:	AvoidFieldNameMatchingMethodName: Field failure has the same name as a method
+src/main/java/com/hankcs/algorithm/State.java:47:	AvoidFieldNameMatchingMethodName: Field failure has the same name as a method
+src/main/java/com/hankcs/algorithm/State.java:47:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/hankcs/algorithm/State.java:47:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/hankcs/algorithm/State.java:47:	CommentRequired: Field comments are required
+src/main/java/com/hankcs/algorithm/State.java:47:	CommentRequired: Field comments are required
+src/main/java/com/hankcs/algorithm/State.java:47:	RedundantFieldInitializer: Avoid using redundant field initializer for 'failure'
+src/main/java/com/hankcs/algorithm/State.java:47:	RedundantFieldInitializer: Avoid using redundant field initializer for 'failure'
+src/main/java/com/hankcs/algorithm/State.java:49:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/hankcs/algorithm/State.java:49:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/hankcs/algorithm/State.java:49:	CommentRequired: Field comments are required
+src/main/java/com/hankcs/algorithm/State.java:49:	CommentRequired: Field comments are required
+src/main/java/com/hankcs/algorithm/State.java:49:	RedundantFieldInitializer: Avoid using redundant field initializer for 'emits'
+src/main/java/com/hankcs/algorithm/State.java:49:	RedundantFieldInitializer: Avoid using redundant field initializer for 'emits'
+src/main/java/com/hankcs/algorithm/State.java:51:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/hankcs/algorithm/State.java:51:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/com/hankcs/algorithm/State.java:51:	CommentRequired: Field comments are required
+src/main/java/com/hankcs/algorithm/State.java:51:	CommentRequired: Field comments are required
+src/main/java/com/hankcs/algorithm/State.java:51:	ImmutableField: Private field 'success' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/com/hankcs/algorithm/State.java:51:	ImmutableField: Private field 'success' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/com/hankcs/algorithm/State.java:51:	UseConcurrentHashMap: If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+src/main/java/com/hankcs/algorithm/State.java:51:	UseConcurrentHashMap: If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+src/main/java/com/hankcs/algorithm/State.java:53:	CommentRequired: Field comments are required
+src/main/java/com/hankcs/algorithm/State.java:53:	CommentRequired: Field comments are required
+src/main/java/com/hankcs/algorithm/State.java:55:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/hankcs/algorithm/State.java:55:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/hankcs/algorithm/State.java:59:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/hankcs/algorithm/State.java:59:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/hankcs/algorithm/State.java:59:	MethodArgumentCouldBeFinal: Parameter 'depth' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/State.java:59:	MethodArgumentCouldBeFinal: Parameter 'depth' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/State.java:67:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/hankcs/algorithm/State.java:67:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/hankcs/algorithm/State.java:67:	MethodArgumentCouldBeFinal: Parameter 'keyword' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/State.java:67:	MethodArgumentCouldBeFinal: Parameter 'keyword' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/State.java:74:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/hankcs/algorithm/State.java:74:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/hankcs/algorithm/State.java:75:	ControlStatementBraces: This statement should have braces
+src/main/java/com/hankcs/algorithm/State.java:75:	ControlStatementBraces: This statement should have braces
+src/main/java/com/hankcs/algorithm/State.java:75:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/main/java/com/hankcs/algorithm/State.java:75:	IfStmtsMustUseBraces: Avoid using if statements without curly braces
+src/main/java/com/hankcs/algorithm/State.java:75:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/hankcs/algorithm/State.java:75:	OnlyOneReturn: A method should have only one exit point, and that should be the last statement in the method
+src/main/java/com/hankcs/algorithm/State.java:76:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/hankcs/algorithm/State.java:76:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/com/hankcs/algorithm/State.java:79:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/hankcs/algorithm/State.java:79:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/hankcs/algorithm/State.java:79:	MethodArgumentCouldBeFinal: Parameter 'emits' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/State.java:79:	MethodArgumentCouldBeFinal: Parameter 'emits' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/State.java:80:	LocalVariableCouldBeFinal: Local variable 'emit' could be declared final
+src/main/java/com/hankcs/algorithm/State.java:80:	LocalVariableCouldBeFinal: Local variable 'emit' could be declared final
+src/main/java/com/hankcs/algorithm/State.java:85:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/hankcs/algorithm/State.java:85:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/hankcs/algorithm/State.java:89:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/hankcs/algorithm/State.java:89:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/hankcs/algorithm/State.java:97:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/hankcs/algorithm/State.java:97:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/hankcs/algorithm/State.java:97:	MethodArgumentCouldBeFinal: Parameter 'failState' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/State.java:97:	MethodArgumentCouldBeFinal: Parameter 'failState' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/State.java:97:	UseVarargs: Consider using varargs for methods or constructors which take an array the last parameter.
+src/main/java/com/hankcs/algorithm/State.java:97:	UseVarargs: Consider using varargs for methods or constructors which take an array the last parameter.
+src/main/java/com/hankcs/algorithm/State.java:108:	MethodArgumentCouldBeFinal: Parameter 'character' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/State.java:108:	MethodArgumentCouldBeFinal: Parameter 'character' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/State.java:108:	MethodArgumentCouldBeFinal: Parameter 'ignoreRootState' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/State.java:108:	MethodArgumentCouldBeFinal: Parameter 'ignoreRootState' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/State.java:116:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/hankcs/algorithm/State.java:116:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/hankcs/algorithm/State.java:116:	MethodArgumentCouldBeFinal: Parameter 'character' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/State.java:116:	MethodArgumentCouldBeFinal: Parameter 'character' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/State.java:120:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/hankcs/algorithm/State.java:120:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/hankcs/algorithm/State.java:120:	MethodArgumentCouldBeFinal: Parameter 'character' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/State.java:120:	MethodArgumentCouldBeFinal: Parameter 'character' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/State.java:124:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/hankcs/algorithm/State.java:124:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/hankcs/algorithm/State.java:124:	MethodArgumentCouldBeFinal: Parameter 'character' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/State.java:124:	MethodArgumentCouldBeFinal: Parameter 'character' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/State.java:133:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/hankcs/algorithm/State.java:133:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/hankcs/algorithm/State.java:137:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/hankcs/algorithm/State.java:137:	CommentRequired: Public method and constructor comments are required
+src/main/java/com/hankcs/algorithm/State.java:143:	ShortVariable: Avoid variables with short names like sb
+src/main/java/com/hankcs/algorithm/State.java:143:	ShortVariable: Avoid variables with short names like sb
+src/main/java/com/hankcs/algorithm/State.java:144:	ConsecutiveAppendsShouldReuse: StringBuffer (or StringBuilder).append is called consecutively without reusing the target variable.
+src/main/java/com/hankcs/algorithm/State.java:144:	ConsecutiveAppendsShouldReuse: StringBuffer (or StringBuilder).append is called consecutively without reusing the target variable.
+src/main/java/com/hankcs/algorithm/State.java:145:	ConsecutiveAppendsShouldReuse: StringBuffer (or StringBuilder).append is called consecutively without reusing the target variable.
+src/main/java/com/hankcs/algorithm/State.java:145:	ConsecutiveAppendsShouldReuse: StringBuffer (or StringBuilder).append is called consecutively without reusing the target variable.
+src/main/java/com/hankcs/algorithm/State.java:146:	ConsecutiveAppendsShouldReuse: StringBuffer (or StringBuilder).append is called consecutively without reusing the target variable.
+src/main/java/com/hankcs/algorithm/State.java:146:	ConsecutiveAppendsShouldReuse: StringBuffer (or StringBuilder).append is called consecutively without reusing the target variable.
+src/main/java/com/hankcs/algorithm/State.java:147:	ConsecutiveAppendsShouldReuse: StringBuffer (or StringBuilder).append is called consecutively without reusing the target variable.
+src/main/java/com/hankcs/algorithm/State.java:147:	ConsecutiveAppendsShouldReuse: StringBuffer (or StringBuilder).append is called consecutively without reusing the target variable.
+src/main/java/com/hankcs/algorithm/State.java:148:	ConsecutiveAppendsShouldReuse: StringBuffer (or StringBuilder).append is called consecutively without reusing the target variable.
+src/main/java/com/hankcs/algorithm/State.java:148:	ConsecutiveAppendsShouldReuse: StringBuffer (or StringBuilder).append is called consecutively without reusing the target variable.
+src/main/java/com/hankcs/algorithm/State.java:149:	ConsecutiveAppendsShouldReuse: StringBuffer (or StringBuilder).append is called consecutively without reusing the target variable.
+src/main/java/com/hankcs/algorithm/State.java:149:	ConsecutiveAppendsShouldReuse: StringBuffer (or StringBuilder).append is called consecutively without reusing the target variable.
+src/main/java/com/hankcs/algorithm/State.java:162:	MethodArgumentCouldBeFinal: Parameter 'index' is not assigned and could be declared final
+src/main/java/com/hankcs/algorithm/State.java:162:	MethodArgumentCouldBeFinal: Parameter 'index' is not assigned and could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:20:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:20:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:20:	NoPackage: All classes, interfaces, enums and annotations must belong to a named package
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:20:	NoPackage: All classes, interfaces, enums and annotations must belong to a named package
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:21:	TooManyMethods: This class has too many methods, consider refactoring it.
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:21:	TooManyMethods: This class has too many methods, consider refactoring it.
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:27:	LocalVariableCouldBeFinal: Local variable 'map' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:27:	LocalVariableCouldBeFinal: Local variable 'map' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:28:	LocalVariableCouldBeFinal: Local variable 'keyArray' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:28:	LocalVariableCouldBeFinal: Local variable 'keyArray' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:28:	UseShortArrayInitializer: Array initialization can be written shorter
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:28:	UseShortArrayInitializer: Array initialization can be written shorter
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:35:	LocalVariableCouldBeFinal: Local variable 'key' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:35:	LocalVariableCouldBeFinal: Local variable 'key' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:40:	LocalVariableCouldBeFinal: Local variable 'acdat' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:40:	LocalVariableCouldBeFinal: Local variable 'acdat' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:45:	MethodArgumentCouldBeFinal: Parameter 'acdat' is not assigned and could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:45:	MethodArgumentCouldBeFinal: Parameter 'acdat' is not assigned and could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:48:	AvoidFinalLocalVariable: Avoid using final local variables, turn them into fields
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:48:	AvoidFinalLocalVariable: Avoid using final local variables, turn them into fields
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:52:	MethodArgumentCouldBeFinal: Parameter 'begin' is not assigned and could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:52:	MethodArgumentCouldBeFinal: Parameter 'begin' is not assigned and could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:52:	MethodArgumentCouldBeFinal: Parameter 'end' is not assigned and could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:52:	MethodArgumentCouldBeFinal: Parameter 'end' is not assigned and could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:52:	MethodArgumentCouldBeFinal: Parameter 'value' is not assigned and could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:52:	MethodArgumentCouldBeFinal: Parameter 'value' is not assigned and could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:54:	SystemPrintln: System.out.printf is used
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:54:	SystemPrintln: System.out.printf is used
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:55:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:55:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:59:	LocalVariableCouldBeFinal: Local variable 'wordList' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:59:	LocalVariableCouldBeFinal: Local variable 'wordList' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:60:	SystemPrintln: System.out.println is used
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:60:	SystemPrintln: System.out.println is used
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:63:	CommentRequired: Public method and constructor comments are required
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:63:	CommentRequired: Public method and constructor comments are required
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:63:	JUnit4TestShouldUseTestAnnotation: JUnit 4 tests that execute tests should use the @Test annotation, JUnit 5 tests should use @Test, @RepeatedTest, @TestFactory, @TestTemplate or @ParameterizedTest
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:63:	JUnit4TestShouldUseTestAnnotation: JUnit 4 tests that execute tests should use the @Test annotation, JUnit 5 tests should use @Test, @RepeatedTest, @TestFactory, @TestTemplate or @ParameterizedTest
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:63:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:63:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:65:	LocalVariableCouldBeFinal: Local variable 'acdat' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:65:	LocalVariableCouldBeFinal: Local variable 'acdat' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:69:	CommentRequired: Public method and constructor comments are required
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:69:	CommentRequired: Public method and constructor comments are required
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:69:	JUnit4TestShouldUseTestAnnotation: JUnit 4 tests that execute tests should use the @Test annotation, JUnit 5 tests should use @Test, @RepeatedTest, @TestFactory, @TestTemplate or @ParameterizedTest
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:69:	JUnit4TestShouldUseTestAnnotation: JUnit 4 tests that execute tests should use the @Test annotation, JUnit 5 tests should use @Test, @RepeatedTest, @TestFactory, @TestTemplate or @ParameterizedTest
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:69:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:69:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:71:	LocalVariableCouldBeFinal: Local variable 'map' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:71:	LocalVariableCouldBeFinal: Local variable 'map' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:73:	LocalVariableCouldBeFinal: Local variable 'longWordLength' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:73:	LocalVariableCouldBeFinal: Local variable 'longWordLength' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:73:	UseUnderscoresInNumericLiterals: Number 20000 should separate every third digit with an underscore
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:73:	UseUnderscoresInNumericLiterals: Number 20000 should separate every third digit with an underscore
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:76:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:76:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:76:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:76:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:77:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:77:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:80:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:80:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:80:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:80:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:81:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:81:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:84:	LocalVariableCouldBeFinal: Local variable 'acdat' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:84:	LocalVariableCouldBeFinal: Local variable 'acdat' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:84:	UseDiamondOperator: Explicit type arguments can be replaced by Diamond Operator
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:84:	UseDiamondOperator: Explicit type arguments can be replaced by Diamond Operator
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:87:	LocalVariableCouldBeFinal: Local variable 'result' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:87:	LocalVariableCouldBeFinal: Local variable 'result' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:89:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:89:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:89:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:89:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:90:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:90:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:90:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:90:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:90:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:90:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:91:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:91:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:91:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:91:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:91:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:91:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:92:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:92:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:92:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:92:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:92:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:92:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:93:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:93:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:93:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:93:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:93:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:93:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:96:	CommentRequired: Public method and constructor comments are required
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:96:	CommentRequired: Public method and constructor comments are required
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:96:	JUnit4TestShouldUseTestAnnotation: JUnit 4 tests that execute tests should use the @Test annotation, JUnit 5 tests should use @Test, @RepeatedTest, @TestFactory, @TestTemplate or @ParameterizedTest
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:96:	JUnit4TestShouldUseTestAnnotation: JUnit 4 tests that execute tests should use the @Test annotation, JUnit 5 tests should use @Test, @RepeatedTest, @TestFactory, @TestTemplate or @ParameterizedTest
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:96:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:96:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:99:	LocalVariableCouldBeFinal: Local variable 'dictionary' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:99:	LocalVariableCouldBeFinal: Local variable 'dictionary' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:102:	LocalVariableCouldBeFinal: Local variable 'map' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:102:	LocalVariableCouldBeFinal: Local variable 'map' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:102:	UseConcurrentHashMap: If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:102:	UseConcurrentHashMap: If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:103:	LocalVariableCouldBeFinal: Local variable 'key' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:103:	LocalVariableCouldBeFinal: Local variable 'key' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:108:	LocalVariableCouldBeFinal: Local variable 'acdat' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:108:	LocalVariableCouldBeFinal: Local variable 'acdat' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:114:	MethodArgumentCouldBeFinal: Parameter 'begin' is not assigned and could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:114:	MethodArgumentCouldBeFinal: Parameter 'begin' is not assigned and could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:114:	MethodArgumentCouldBeFinal: Parameter 'end' is not assigned and could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:114:	MethodArgumentCouldBeFinal: Parameter 'end' is not assigned and could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:114:	MethodArgumentCouldBeFinal: Parameter 'value' is not assigned and could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:114:	MethodArgumentCouldBeFinal: Parameter 'value' is not assigned and could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:116:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:116:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:121:	CommentRequired: Class comments are required
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:121:	CommentRequired: Class comments are required
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:123:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:123:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:123:	CommentRequired: Field comments are required
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:123:	CommentRequired: Field comments are required
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:124:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:124:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:124:	CommentRequired: Field comments are required
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:124:	CommentRequired: Field comments are required
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:124:	ImmutableField: Private field 'countAll' could be made final; it is only initialized in the declaration or constructor.
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:124:	ImmutableField: Private field 'countAll' could be made final; it is only initialized in the declaration or constructor.
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:126:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the CountHits constructor if you want a default access modifier
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:126:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the CountHits constructor if you want a default access modifier
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:126:	MethodArgumentCouldBeFinal: Parameter 'countAll' is not assigned and could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:126:	MethodArgumentCouldBeFinal: Parameter 'countAll' is not assigned and could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:134:	MethodArgumentCouldBeFinal: Parameter 'begin' is not assigned and could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:134:	MethodArgumentCouldBeFinal: Parameter 'begin' is not assigned and could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:134:	MethodArgumentCouldBeFinal: Parameter 'end' is not assigned and could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:134:	MethodArgumentCouldBeFinal: Parameter 'end' is not assigned and could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:134:	MethodArgumentCouldBeFinal: Parameter 'value' is not assigned and could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:134:	MethodArgumentCouldBeFinal: Parameter 'value' is not assigned and could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:141:	CommentRequired: Public method and constructor comments are required
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:141:	CommentRequired: Public method and constructor comments are required
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:141:	JUnit4TestShouldUseTestAnnotation: JUnit 4 tests that execute tests should use the @Test annotation, JUnit 5 tests should use @Test, @RepeatedTest, @TestFactory, @TestTemplate or @ParameterizedTest
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:141:	JUnit4TestShouldUseTestAnnotation: JUnit 4 tests that execute tests should use the @Test annotation, JUnit 5 tests should use @Test, @RepeatedTest, @TestFactory, @TestTemplate or @ParameterizedTest
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:141:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:141:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:143:	LocalVariableCouldBeFinal: Local variable 'map' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:143:	LocalVariableCouldBeFinal: Local variable 'map' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:143:	UseConcurrentHashMap: If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:143:	UseConcurrentHashMap: If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:144:	AvoidDuplicateLiterals: The String literal "space" appears 4 times in this file; the first occurrence is on line 144
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:144:	AvoidDuplicateLiterals: The String literal "space" appears 4 times in this file; the first occurrence is on line 144
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:147:	LocalVariableCouldBeFinal: Local variable 'trie' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:147:	LocalVariableCouldBeFinal: Local variable 'trie' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:150:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:150:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:151:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:151:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:152:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:152:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:153:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:153:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:154:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:154:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:155:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:155:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:156:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:156:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:157:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:157:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:158:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:158:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:159:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:159:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:162:	CommentRequired: Public method and constructor comments are required
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:162:	CommentRequired: Public method and constructor comments are required
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:162:	JUnit4TestShouldUseTestAnnotation: JUnit 4 tests that execute tests should use the @Test annotation, JUnit 5 tests should use @Test, @RepeatedTest, @TestFactory, @TestTemplate or @ParameterizedTest
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:162:	JUnit4TestShouldUseTestAnnotation: JUnit 4 tests that execute tests should use the @Test annotation, JUnit 5 tests should use @Test, @RepeatedTest, @TestFactory, @TestTemplate or @ParameterizedTest
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:162:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:162:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:164:	LocalVariableCouldBeFinal: Local variable 'map' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:164:	LocalVariableCouldBeFinal: Local variable 'map' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:164:	UseConcurrentHashMap: If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:164:	UseConcurrentHashMap: If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:168:	LocalVariableCouldBeFinal: Local variable 'trie' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:168:	LocalVariableCouldBeFinal: Local variable 'trie' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:172:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:172:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:173:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:173:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:174:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:174:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:174:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:174:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:177:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:177:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:178:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:178:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:179:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:179:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:179:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:179:	LawOfDemeter: Potential violation of Law of Demeter (static property access)
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:181:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:181:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:182:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:182:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:183:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:183:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:184:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:184:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:187:	CommentRequired: Public method and constructor comments are required
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:187:	CommentRequired: Public method and constructor comments are required
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:187:	JUnit4TestShouldUseTestAnnotation: JUnit 4 tests that execute tests should use the @Test annotation, JUnit 5 tests should use @Test, @RepeatedTest, @TestFactory, @TestTemplate or @ParameterizedTest
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:187:	JUnit4TestShouldUseTestAnnotation: JUnit 4 tests that execute tests should use the @Test annotation, JUnit 5 tests should use @Test, @RepeatedTest, @TestFactory, @TestTemplate or @ParameterizedTest
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:187:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:187:	JUnitTestContainsTooManyAsserts: Unit tests should not contain more than 1 assert(s).
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:190:	LocalVariableCouldBeFinal: Local variable 'map' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:190:	LocalVariableCouldBeFinal: Local variable 'map' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:191:	LocalVariableCouldBeFinal: Local variable 'keyArray' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:191:	LocalVariableCouldBeFinal: Local variable 'keyArray' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:191:	UseShortArrayInitializer: Array initialization can be written shorter
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:191:	UseShortArrayInitializer: Array initialization can be written shorter
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:196:	LocalVariableCouldBeFinal: Local variable 'key' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:196:	LocalVariableCouldBeFinal: Local variable 'key' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:201:	LocalVariableCouldBeFinal: Local variable 'acdat' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:201:	LocalVariableCouldBeFinal: Local variable 'acdat' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:204:	LocalVariableCouldBeFinal: Local variable 'haystack' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:204:	LocalVariableCouldBeFinal: Local variable 'haystack' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:205:	LocalVariableCouldBeFinal: Local variable 'cancellingMatcher' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:205:	LocalVariableCouldBeFinal: Local variable 'cancellingMatcher' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:206:	LocalVariableCouldBeFinal: Local variable 'countingMatcher' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:206:	LocalVariableCouldBeFinal: Local variable 'countingMatcher' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:207:	SystemPrintln: System.out.println is used
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:207:	SystemPrintln: System.out.println is used
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:210:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:210:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:210:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:210:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:211:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:211:	AccessorMethodGeneration: Avoid autogenerated methods to access private fields and methods of inner / outer classes
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:211:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:211:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:214:	MethodArgumentCouldBeFinal: Parameter 'path' is not assigned and could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:214:	MethodArgumentCouldBeFinal: Parameter 'path' is not assigned and could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:216:	LocalVariableCouldBeFinal: Local variable 'sbText' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:216:	LocalVariableCouldBeFinal: Local variable 'sbText' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:217:	CloseResource: Ensure that resources like this InputStreamReader object are closed after use
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:217:	CloseResource: Ensure that resources like this InputStreamReader object are closed after use
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:217:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:217:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:217:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:217:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:217:	LocalVariableCouldBeFinal: Local variable 'br' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:217:	LocalVariableCouldBeFinal: Local variable 'br' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:217:	ShortVariable: Avoid variables with short names like br
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:217:	ShortVariable: Avoid variables with short names like br
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:219:	AssignmentInOperand: Avoid assignments in operands
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:219:	AssignmentInOperand: Avoid assignments in operands
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:219:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'line' (lines '219'-'226').
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:219:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'line' (lines '219'-'226').
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:228:	MethodArgumentCouldBeFinal: Parameter 'path' is not assigned and could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:228:	MethodArgumentCouldBeFinal: Parameter 'path' is not assigned and could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:230:	LocalVariableCouldBeFinal: Local variable 'dictionary' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:230:	LocalVariableCouldBeFinal: Local variable 'dictionary' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:231:	CloseResource: Ensure that resources like this InputStreamReader object are closed after use
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:231:	CloseResource: Ensure that resources like this InputStreamReader object are closed after use
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:231:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:231:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:231:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:231:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:231:	LocalVariableCouldBeFinal: Local variable 'br' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:231:	LocalVariableCouldBeFinal: Local variable 'br' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:231:	ShortVariable: Avoid variables with short names like br
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:231:	ShortVariable: Avoid variables with short names like br
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:233:	AssignmentInOperand: Avoid assignments in operands
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:233:	AssignmentInOperand: Avoid assignments in operands
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:233:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'line' (lines '233'-'240').
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:233:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'line' (lines '233'-'240').
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:242:	MethodArgumentCouldBeFinal: Parameter 'dictionaryPath' is not assigned and could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:242:	MethodArgumentCouldBeFinal: Parameter 'dictionaryPath' is not assigned and could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:242:	MethodArgumentCouldBeFinal: Parameter 'textPath' is not assigned and could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:242:	MethodArgumentCouldBeFinal: Parameter 'textPath' is not assigned and could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:244:	LocalVariableCouldBeFinal: Local variable 'dictionary' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:244:	LocalVariableCouldBeFinal: Local variable 'dictionary' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:245:	LocalVariableCouldBeFinal: Local variable 'text' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:245:	LocalVariableCouldBeFinal: Local variable 'text' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:247:	LocalVariableCouldBeFinal: Local variable 'ahoCorasickNaive' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:247:	LocalVariableCouldBeFinal: Local variable 'ahoCorasickNaive' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:248:	LocalVariableCouldBeFinal: Local variable 'word' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:248:	LocalVariableCouldBeFinal: Local variable 'word' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:252:	CommentSize: Comment is too large: Line too long
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:252:	CommentSize: Comment is too large: Line too long
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:254:	LocalVariableCouldBeFinal: Local variable 'ahoCorasickDoubleArrayTrie' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:254:	LocalVariableCouldBeFinal: Local variable 'ahoCorasickDoubleArrayTrie' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:254:	LongVariable: Avoid excessively long variable names like ahoCorasickDoubleArrayTrie
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:254:	LongVariable: Avoid excessively long variable names like ahoCorasickDoubleArrayTrie
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:255:	LocalVariableCouldBeFinal: Local variable 'dictionaryMap' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:255:	LocalVariableCouldBeFinal: Local variable 'dictionaryMap' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:256:	LocalVariableCouldBeFinal: Local variable 'word' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:256:	LocalVariableCouldBeFinal: Local variable 'word' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:262:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:262:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:262:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:262:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:262:	SystemPrintln: System.out.printf is used
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:262:	SystemPrintln: System.out.printf is used
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:265:	LocalVariableCouldBeFinal: Local variable 'costTimeNaive' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:265:	LocalVariableCouldBeFinal: Local variable 'costTimeNaive' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:270:	MethodArgumentCouldBeFinal: Parameter 'begin' is not assigned and could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:270:	MethodArgumentCouldBeFinal: Parameter 'begin' is not assigned and could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:270:	MethodArgumentCouldBeFinal: Parameter 'end' is not assigned and could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:270:	MethodArgumentCouldBeFinal: Parameter 'end' is not assigned and could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:270:	MethodArgumentCouldBeFinal: Parameter 'value' is not assigned and could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:270:	MethodArgumentCouldBeFinal: Parameter 'value' is not assigned and could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:275:	LocalVariableCouldBeFinal: Local variable 'costTimeACDAT' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:275:	LocalVariableCouldBeFinal: Local variable 'costTimeACDAT' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:276:	SystemPrintln: System.out.printf is used
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:276:	SystemPrintln: System.out.printf is used
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:277:	SystemPrintln: System.out.printf is used
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:277:	SystemPrintln: System.out.printf is used
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:278:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:278:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:278:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:278:	LawOfDemeter: Potential violation of Law of Demeter (object not created locally)
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:278:	SystemPrintln: System.out.printf is used
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:278:	SystemPrintln: System.out.printf is used
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:278:	UselessParentheses: Useless parentheses.
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:278:	UselessParentheses: Useless parentheses.
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:278:	UselessParentheses: Useless parentheses.
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:278:	UselessParentheses: Useless parentheses.
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:279:	SystemPrintln: System.out.printf is used
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:279:	SystemPrintln: System.out.printf is used
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:280:	SystemPrintln: System.out.println is used
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:280:	SystemPrintln: System.out.println is used
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:283:	CommentRequired: Public method and constructor comments are required
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:283:	CommentRequired: Public method and constructor comments are required
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:283:	JUnit4TestShouldUseTestAnnotation: JUnit 4 tests that execute tests should use the @Test annotation, JUnit 5 tests should use @Test, @RepeatedTest, @TestFactory, @TestTemplate or @ParameterizedTest
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:283:	JUnit4TestShouldUseTestAnnotation: JUnit 4 tests that execute tests should use the @Test annotation, JUnit 5 tests should use @Test, @RepeatedTest, @TestFactory, @TestTemplate or @ParameterizedTest
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:283:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:283:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:289:	CommentRequired: Public method and constructor comments are required
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:289:	CommentRequired: Public method and constructor comments are required
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:289:	JUnit4TestShouldUseTestAnnotation: JUnit 4 tests that execute tests should use the @Test annotation, JUnit 5 tests should use @Test, @RepeatedTest, @TestFactory, @TestTemplate or @ParameterizedTest
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:289:	JUnit4TestShouldUseTestAnnotation: JUnit 4 tests that execute tests should use the @Test annotation, JUnit 5 tests should use @Test, @RepeatedTest, @TestFactory, @TestTemplate or @ParameterizedTest
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:289:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:289:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:293:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:293:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:294:	SystemPrintln: System.out.println is used
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:294:	SystemPrintln: System.out.println is used
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:295:	AvoidFileStream: Avoid instantiating FileInputStream, FileOutputStream, FileReader, or FileWriter
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:295:	AvoidFileStream: Avoid instantiating FileInputStream, FileOutputStream, FileReader, or FileWriter
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:295:	CloseResource: Ensure that resources like this FileOutputStream object are closed after use
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:295:	CloseResource: Ensure that resources like this FileOutputStream object are closed after use
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:295:	LocalVariableCouldBeFinal: Local variable 'out' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:295:	LocalVariableCouldBeFinal: Local variable 'out' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:297:	SystemPrintln: System.out.println is used
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:297:	SystemPrintln: System.out.println is used
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:299:	AvoidFileStream: Avoid instantiating FileInputStream, FileOutputStream, FileReader, or FileWriter
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:299:	AvoidFileStream: Avoid instantiating FileInputStream, FileOutputStream, FileReader, or FileWriter
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:299:	CloseResource: Ensure that resources like this FileInputStream object are closed after use
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:299:	CloseResource: Ensure that resources like this FileInputStream object are closed after use
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:299:	LocalVariableCouldBeFinal: Local variable 'in' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:299:	LocalVariableCouldBeFinal: Local variable 'in' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:299:	ShortVariable: Avoid variables with short names like in
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:299:	ShortVariable: Avoid variables with short names like in
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:305:	CommentRequired: Public method and constructor comments are required
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:305:	CommentRequired: Public method and constructor comments are required
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:305:	JUnit4TestShouldUseTestAnnotation: JUnit 4 tests that execute tests should use the @Test annotation, JUnit 5 tests should use @Test, @RepeatedTest, @TestFactory, @TestTemplate or @ParameterizedTest
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:305:	JUnit4TestShouldUseTestAnnotation: JUnit 4 tests that execute tests should use the @Test annotation, JUnit 5 tests should use @Test, @RepeatedTest, @TestFactory, @TestTemplate or @ParameterizedTest
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:307:	LocalVariableCouldBeFinal: Local variable 'acdat' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:307:	LocalVariableCouldBeFinal: Local variable 'acdat' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:308:	LocalVariableCouldBeFinal: Local variable 'map' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:308:	LocalVariableCouldBeFinal: Local variable 'map' could be declared final
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:310:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/test/java/TestAhoCorasickDoubleArrayTrie.java:310:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
